@@ -1,11 +1,11 @@
 # Introduction
 
-I am Gurpreet Singh.
+I am Lakshay Khurana.
 
 
 # Hobbies
   - Programming
-  - Playing video games
-  - Watching movies
+  - Watching Stand Up
+  - Watching Web Series
 
-## My favourite smile is :wink:
+## My favourite smile is :spy:
